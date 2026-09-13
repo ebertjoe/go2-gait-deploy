@@ -1,0 +1,10 @@
+build/
+install/
+log/
+**/__pycache__
+*.pyc
+*.pyo
+
+# policy checkpoints
+*.pt
+!policyAfterChapter6.pt
